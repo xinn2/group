@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(207, 238, 136);
+}
+h1 {
+    font-size: 100px;
+    color: rgb(250, 2, 2);
+    text-align: center;
+}
+.headerfirst {
+    
+    font-size: 40px;
+    color: rgb(80, 71, 71);
+    text-align: center;
+}
+.photo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.text1 {
+    font-family: "Times New Roman", Times, serif;
+font-size: 15px;
+letter-spacing: 1px;
+word-spacing: 1px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+.list {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+ul {
+    font-size: 25px;
+}
